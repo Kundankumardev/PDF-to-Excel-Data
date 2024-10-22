@@ -1,1 +1,1 @@
-<h1>Proposal: PDF Data Extraction to Excel with Embedded Images</h1>
+<h1>PDF Data Extraction to Excel with Embedded Images</h1>
